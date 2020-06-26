@@ -1,0 +1,3 @@
+smartninja-sqlgit rm classes/file.pyc
+git commit -m"bla bla bla"
+git push
